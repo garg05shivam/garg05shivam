@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/84V6N5K.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/garg05shivam/garg05shivam/main/banner.png" width="100%" />
 </p>
 
 # 👋 Hi, I'm **Shivam Garg!**  
