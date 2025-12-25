@@ -16,42 +16,43 @@
 💻 Programming
 
 ⚡ C++ • C • Python • Java
+
 ⚡ JavaScript • HTML • CSS
 
 🧠 Core CS
 
 📌 Data Structures & Algorithms
+
 📌 OOP • DBMS • OS • Networking
 
 🤖 Machine Learning
 
-📌 ML Basics • Models Training • NLP • LLMs
+📌 ML Basics • Model Training • NLP • LLMs
 
 🛠️ Tools
 
 🔧 Git & GitHub • VS Code • Jupyter Notebook
 
-📈 My GitHub Stats
-
 🔥 Projects You Should Check Out
 ⭐ DSA – Daily Practice Repo
 
-📌 My journey from basics to advanced DSA
+📌 Journey from basics to advanced DSA
 📂 C++ • Daily problem solving
+🔗 https://github.com/garg05shivam/Dsa_From-basic
 
 🤖 Chatbot Project
 
 📌 Custom AI chatbot using HTML/CSS + API
-🎯 Interactive + clean UI
+🎯 Clean and interactive UI
 
 🧠 LLM Experiments
 
-📌 My experiments with AI, ML and Language Models
-🧪 Testing prompts, models, NLP features
+📌 Experiments with AI, ML, and Language Models
+🧪 Testing prompts, model behavior & NLP
 
 💼 Summer Project
 
-📌 HTML-based project to understand web flow
+📌 HTML-based frontend learning project
 
 🌐 Connect With Me
 
@@ -61,9 +62,9 @@
 
 🧩 Fun Facts About Me
 
-😄 I love debugging more than coding sometimes
+😄 I love debugging more than coding
 
-🎯 My goal: Crack a top tech company
+🎯 Goal: Crack a top tech company
 
 🔥 I believe: Consistency beats talent
 
