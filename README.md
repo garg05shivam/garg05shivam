@@ -83,14 +83,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=garg05shivam&show_icons=true&theme=tokyonight&hide_rank=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=garg05shivam&theme=tokyonight)
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
