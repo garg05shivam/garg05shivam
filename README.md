@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/garg05shivam/garg05shivam/main/banner.png" width="100%" />
 </p>
 
-<!-- Animated Typing Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Shivam+Garg;CSE+Student;DSA+Enthusiast;AI+%26+ML+Explorer;Full+Stack+Learner" />
@@ -64,14 +63,14 @@
 
 ### ⭐ **DSA – Daily Practice Repo**  
 - 📌 Solving DSA from basics to advanced  
-- 📂 C++ • Daily problem solving  
+- 📂 C++ • Daily practice  
 - 🔗 https://github.com/garg05shivam/Dsa_From-basic  
 
 ---
 
 ### 🤖 **Chatbot Project**  
 - 📌 AI chatbot using HTML/CSS + API  
-- 🎯 Beginner-friendly & clean UI  
+- 🎯 Clean & interactive UI  
 
 ---
 
@@ -95,6 +94,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/garg05shivam/garg05shivam/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 # 🌐 Connect With Me  
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/shivam-garg-098a58285  
@@ -112,4 +119,4 @@
 ---
 
 # ❤️ If you like my work  
-✨ Please give my repos a **star** — it motivates me to build more! 🚀  
+✨ Please give my repositories a **star** — it motivates me to build more! 🚀  
