@@ -85,12 +85,16 @@
 
 ---
 
-# 📈 GitHub Stats  
+## 📈 GitHub Stats  
+
+
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=garg05shivam&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=garg05shivam&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=garg05shivam&show_icons=true&theme=tokyonight&hide_rank=true"
+  />
 </p>
+
 
 ---
 
