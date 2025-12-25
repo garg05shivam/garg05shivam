@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/84V6N5K.png" width="100%" />
+</p>
+
 # 👋 Hi, I'm **Shivam Garg!**  
 ### 🚀 Passionate CSE Student | 💻 DSA Enthusiast | 🤖 AI & ML Explorer  
 
