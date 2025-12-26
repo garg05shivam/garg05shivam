@@ -12,7 +12,7 @@
 
 # 👋 Hi, I'm **Shivam Garg**
 ### 🚀 CSE Student | 💻 DSA Enthusiast | 🤖 AI & ML Explorer
-
+### 🚀 Portfolio: https://garg05shivam.github.io
 ---
 
 ## 🌟 About Me
