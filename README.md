@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Problem+Solver;AI+Enthusiast;Consistency+Beats+Talent;Always+Learning+Something+New" />
+  <img src="https://gemini.google.com/share/18006567ee5d" />
 </p>
 
 <br>
