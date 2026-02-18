@@ -14,7 +14,7 @@
 
 <!-- Pixel Cyberpunk Coding Room Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/garg05shivam/garg05shivam/main/pixel_coding_room.png" width="900" alt="Pixel Cyberpunk Coding Room"/>
+  <img src="https://raw.githubusercontent.com/garg05shivam/garg05shivam/main/pixel_coding_room.png" width="500" alt="Pixel Cyberpunk Coding Room"/>
 </p>
 
 ---
