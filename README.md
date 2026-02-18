@@ -12,8 +12,9 @@
 
 <br>
 
+<!-- Pixel Cyberpunk Coding Room Image -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1400&q=80" width="900" alt="Coding Setup"/>
+  <img src="https://raw.githubusercontent.com/garg05shivam/garg05shivam/main/pixel_coding_room.png" width="900" alt="Pixel Cyberpunk Coding Room"/>
 </p>
 
 ---
