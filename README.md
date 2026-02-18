@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1400&q=80" width="900" alt="Coding Setup"/>
+  <img src="https://gemini.google.com/share/18006567ee5d"/>
 </p>
 
 ---
