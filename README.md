@@ -100,16 +100,18 @@
 
 ---
 
+
 # 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=garg05shivam&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=garg05shivam&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=garg05shivam&theme=tokyonight"/>
 </p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garg05shivam&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
