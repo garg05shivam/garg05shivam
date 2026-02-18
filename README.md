@@ -104,7 +104,8 @@
 # 📊 GitHub Stats
 
  <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=garg05shivam&show_icons=true&theme=tokyonight"/>
+  
+  <img height="170" src="https://streak-stats.demolab.com?user=garg05shivam&theme=tokyonight"/>
   
 </p> 
 
